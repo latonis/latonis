@@ -1,4 +1,7 @@
+![hero image](images/hero.png)
+
 ### Hi there 👋
+
 
 <!--
 **Latonis/latonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

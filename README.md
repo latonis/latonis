@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="/twitter..png" width="100" />
-  <img src="images/ig.png" width="100" /> 
-  <img src="images/linkedin.png" width="100" />
+  <a href="https://twitter.com/jacoblatonis"><img src="images/twitter..png" width="64" /></a>
+  <a href="https://www.instagram.com/lvtonis/"><img src="images/ig.png" width="64" /></a>
+  <a href="https://www.linkedin.com/in/jacob-latonis/"><img src="images/linkedin.png" width="64" /></a>
 </p>
 
 <!--

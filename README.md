@@ -1,9 +1,10 @@
 ![hero image](images/hero.png)
 
 ### interests
-- security engineering
-- malware analysis
+- software engineering
+- secirity engineering
 - reverse engineering
+- python 🐍, go 🐿, rust 🦀
 
 ### bye
 <p float="left">

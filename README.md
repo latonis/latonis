@@ -2,9 +2,9 @@
 
 ### interests
 - software engineering
-- secirity engineering
+  - python 🐍, go 🐿, rust 🦀
+- security engineering
 - reverse engineering
-- python 🐍, go 🐿, rust 🦀
 
 ### bye
 <p float="left">

@@ -1,4 +1,4 @@
-![hero image](images/header.png)
+![hero image](images/header_img.png)
 
 ### interests
 - software engineering
